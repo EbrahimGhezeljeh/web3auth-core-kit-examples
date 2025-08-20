@@ -1,4 +1,4 @@
-# Web3Auth Core Kit Examples
+solona# Web3Auth Core Kit Examples
 
 [Web3Auth](https://web3auth.io) is a plugable auth infrastructure for Web3 wallets and applications. It streamlines the
 onboarding of both mainstream and crypto native users under a minute by providing experiences that they're most
