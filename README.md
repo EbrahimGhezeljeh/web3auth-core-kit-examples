@@ -1,4 +1,4 @@
-# Web3Auth Core Kit Examples
+#Bitcoin Web3Auth Core Kit Examples
 
 [Web3Auth](https://web3auth.io) is a pluggable auth infrastructure for Web3 wallets and applications. It streamlines the
 onboarding of both mainstream and crypto native users in under a minute by providing experiences that they're most
